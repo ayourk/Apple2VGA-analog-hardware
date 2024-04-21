@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.575
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|183432000|84634250|21008640-89e1-4267-a25e-4d27c879c0c9|00000000-0000-0000-0000-0000643cd3a6",
-        "silk_over_copper|183492000|84634250|132be0f0-bbd3-4df2-8ae6-d256588bf63e|00000000-0000-0000-0000-0000643cd3a6"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -89,7 +86,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
