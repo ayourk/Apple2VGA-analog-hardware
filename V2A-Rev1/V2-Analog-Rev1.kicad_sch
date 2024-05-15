@@ -7964,7 +7964,7 @@
     (property "PN_DigiKey" "2156-PALCE16V8H-5JC/5-ND" (id 5) (at 234.95 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PN_Mouser" "Not Assigned" (id 9) (at 234.95 158.75 0)
+    (property "PN_Mouser" "Unavailable" (id 9) (at 234.95 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
