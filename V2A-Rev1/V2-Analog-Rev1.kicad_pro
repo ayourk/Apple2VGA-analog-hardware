@@ -56,12 +56,20 @@
         }
       ],
       "drc_exclusions": [
+        "invalid_outline|103366000|95935000|a1e30048-248d-4ad3-9b38-3e9e5ad1163e|86522ba1-20df-4812-b55d-b554826d3732",
+        "invalid_outline|109471000|126576000|368371e7-cc43-47ec-8cd7-100909010f5c|191e48af-af4a-45bd-9a4b-49263a10b3cb",
+        "invalid_outline|118602000|77808000|00000000-0000-0000-0000-000063836f50|7a0b9618-a730-457b-812f-8a3c11baee0d",
+        "invalid_outline|170350000|99144000|182b69ee-352c-4717-bcca-b97b0593f6b1|97a0a1eb-4dfb-4478-8af5-4221fa8144a0",
         "invalid_outline|174749000|133984000|00000000-0000-0000-0000-000062931059|99cdaa99-271a-4a29-8296-7e8e0385f669",
         "invalid_outline|183880000|101938000|f949c0f8-9b3e-425b-86ac-6f5551db388b|41bf45b6-bdd4-471b-adc1-67368ed38fff",
+        "invalid_outline|183880000|125576000|4ece4e19-311c-4e95-abed-b1183abddb2a|41bf45b6-bdd4-471b-adc1-67368ed38fff",
+        "invalid_outline|183880000|125576000|f39073c6-1ecb-4d9e-be1d-9e0bd1ebe7cd|41bf45b6-bdd4-471b-adc1-67368ed38fff",
         "invalid_outline|183880000|134492000|d0b41159-81bc-4bd5-b852-025730f48a9f|981d1993-108f-4ad6-bb1c-85e6396f2e53",
         "invalid_outline|183880000|76808000|864ab070-84ef-454d-855c-3c331f5f5b42|4b675fe8-528a-420f-95e9-3f816ce8ca24",
+        "invalid_outline|186674000|99144000|ee2cfd84-1e9c-4e59-a192-6c3062e8a21d|442960ce-66ff-4afb-899d-95a13f259fe3",
         "invalid_outline|77581000|123782000|a699d92e-e129-4c2d-9e5a-505e770f74b7|0b5ac870-8267-462e-93f3-1b38024bd05c",
-        "invalid_outline|77581000|96350000|ade3d3f6-24e6-4a84-80f8-9388e5ae08ec|0b5ac870-8267-462e-93f3-1b38024bd05c"
+        "invalid_outline|77581000|96350000|ade3d3f6-24e6-4a84-80f8-9388e5ae08ec|0b5ac870-8267-462e-93f3-1b38024bd05c",
+        "invalid_outline|98536000|99144000|a1e30048-248d-4ad3-9b38-3e9e5ad1163e|bc1a149a-a690-4e8d-831a-6204224a28fb"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -403,7 +411,7 @@
       "netlist": "DasUberTerm.net",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "STL/V2-Analog-Rev1.wrl"
     },
     "page_layout_descr_file": ""
   },
