@@ -1,4 +1,8 @@
-# Apple2Proto
+![V2Logo](https://github.com/ayourk/Apple2Analog-VGA/blob/main/docs/v2logo.png) 
+
+# Clone of ∀2 Retro Computing Analog VGA Card & PicoPal
+![PicoPal Logo](https://github.com/ayourk/Apple2Analog-VGA/blob/main/docs/PicoPalLogo.png)
+
 Design files for the ∀2 Analog series of VGA cards
 
 ## Description
@@ -21,6 +25,7 @@ This board should still be binary compatible with the software this hardware was
 https://github.com/V2RetroComputing/analog <br />
 https://github.com/ayourk/Apple2Analog-VGA <br />
 https://github.com/hanshuebner/AppleII-VGA <br />
+https://github.com/markadev/AppleII-VGA <br />
 [Apple II Expansion Card Size Specifications](V2A-Rev1/docs/Apple_II_ExpansionCard_Spec.txt) <br />
 [Apple II Expansion Slot Pinout](V2A-Rev1/docs/Apple2SlotPinout.html) <br />
 [Apple II Hardware Reference](V2A-Rev1/docs/Apple2HardwareReference.pdf) <br />
